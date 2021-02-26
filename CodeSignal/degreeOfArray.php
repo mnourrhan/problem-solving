@@ -1,5 +1,5 @@
 <?php
-
+// https://leetcode.com/problems/degree-of-an-array/submissions/
 function findShortestSubArray($inputData) {
     $arr = explode(' ', $inputData);
     $arrDegree= -1;
